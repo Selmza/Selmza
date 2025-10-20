@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Unity and C#**
 
 <h3 align="left">Connect with me:</h3>
+Discord: selm.
 <p align="left">
 </p>
 
